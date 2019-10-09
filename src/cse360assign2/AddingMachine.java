@@ -57,7 +57,7 @@ public class AddingMachine {
 		return history;
 	}
 	/**
-	 * Clear sets <b>total</b> to 0, and also clears out the history of 
+	 * Clear sets <b>total</b> to zero, and also clears out the history of 
 	 * operations.
 	 */
 	public void clear() {
